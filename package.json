@@ -1,0 +1,24 @@
+{
+  "dependencies": {},
+  "name": "express-js-route-manager",
+  "version": "1.0.0",
+  "description": "Manage express.js routes",
+  "main": "route-manager.js",
+  "scripts": {
+    "test": "node example.js"
+  },
+  "keywords": [
+    "express.js",
+    "express-js",
+    "manage-routes",
+    "express-js-routes",
+    "express.js-routes",
+    "express-js-manage-routes",
+    "express_js-route-manager",
+    "express.js-route-manager",
+    "express-js-remove-route",
+    "express.js-remove-route"
+  ],
+  "author": "Mateusz Bilicz",
+  "license": "ISC"
+}
